@@ -16,6 +16,7 @@ gem 'chartkick'
 gem 'activemerchant'
 gem 'bootstrap', '~> 4.2.1'
 gem 'cancan'
+gem 'carrierwave'
 gem 'devise', '4.5.0'
 gem 'devise-i18n', '~> 0.10.3'
 gem 'font-awesome-sass', '~> 5.6.1'
@@ -31,7 +32,6 @@ gem 'active_model_serializers' # , github: 'rails-api/active_model_serializers',
 gem 'ransack', '1.5.1'
 
 # TODO: switch to stable version
-gem 'carrierwave'
 gem 'draper', '1.4.0'
 gem 'gibbon'
 gem 'mechanize'
